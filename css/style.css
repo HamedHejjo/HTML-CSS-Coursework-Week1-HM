@@ -6,3 +6,19 @@
  *    for example: General styles, Navigation styles, Hero styles, Footer etc.
  * 
  */
+
+section {
+  margin: auto;
+  width: 70%;
+  border: 3px solid rgb(38, 0, 128);
+  padding: 10px;
+}
+footer {
+  display: block;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(76, 61, 216);
+  color: white;
+  text-align: center;
+}
